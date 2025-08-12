@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\cworkspace2\\Algorithm1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E31D9E45-BECA-48A7-983D-52ABEC2EBACD}|Algorithm1\\Algorithm1.vcxproj|C:\\cworkspace2\\Algorithm1\\Algorithm1\\Fibonacci.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E31D9E45-BECA-48A7-983D-52ABEC2EBACD}|Algorithm1\\Algorithm1.vcxproj|solutionrelative:Algorithm1\\Fibonacci.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E31D9E45-BECA-48A7-983D-52ABEC2EBACD}|Algorithm1\\Algorithm1.vcxproj|C:\\cworkspace2\\Algorithm1\\Algorithm1\\gcd2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E31D9E45-BECA-48A7-983D-52ABEC2EBACD}|Algorithm1\\Algorithm1.vcxproj|solutionrelative:Algorithm1\\gcd2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E31D9E45-BECA-48A7-983D-52ABEC2EBACD}|Algorithm1\\Algorithm1.vcxproj|C:\\cworkspace2\\Algorithm1\\Algorithm1\\Factorial2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E31D9E45-BECA-48A7-983D-52ABEC2EBACD}|Algorithm1\\Algorithm1.vcxproj|solutionrelative:Algorithm1\\Factorial2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E31D9E45-BECA-48A7-983D-52ABEC2EBACD}|Algorithm1\\Algorithm1.vcxproj|C:\\cworkspace2\\Algorithm1\\Algorithm1\\gcd1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E31D9E45-BECA-48A7-983D-52ABEC2EBACD}|Algorithm1\\Algorithm1.vcxproj|solutionrelative:Algorithm1\\gcd1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E31D9E45-BECA-48A7-983D-52ABEC2EBACD}|Algorithm1\\Algorithm1.vcxproj|C:\\cworkspace2\\Algorithm1\\Algorithm1\\Factorial.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E31D9E45-BECA-48A7-983D-52ABEC2EBACD}|Algorithm1\\Algorithm1.vcxproj|solutionrelative:Algorithm1\\Factorial.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E31D9E45-BECA-48A7-983D-52ABEC2EBACD}|Algorithm1\\Algorithm1.vcxproj|C:\\cworkspace2\\Algorithm1\\Algorithm1\\PrintBinary.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E31D9E45-BECA-48A7-983D-52ABEC2EBACD}|Algorithm1\\Algorithm1.vcxproj|solutionrelative:Algorithm1\\PrintBinary.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E31D9E45-BECA-48A7-983D-52ABEC2EBACD}|Algorithm1\\Algorithm1.vcxproj|C:\\cworkspace2\\Algorithm1\\Algorithm1\\SosEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E31D9E45-BECA-48A7-983D-52ABEC2EBACD}|Algorithm1\\Algorithm1.vcxproj|solutionrelative:Algorithm1\\SosEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E31D9E45-BECA-48A7-983D-52ABEC2EBACD}|Algorithm1\\Algorithm1.vcxproj|C:\\cworkspace2\\Algorithm1\\Algorithm1\\FibonacciPractice.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E31D9E45-BECA-48A7-983D-52ABEC2EBACD}|Algorithm1\\Algorithm1.vcxproj|solutionrelative:Algorithm1\\FibonacciPractice.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E31D9E45-BECA-48A7-983D-52ABEC2EBACD}|Algorithm1\\Algorithm1.vcxproj|C:\\cworkspace2\\Algorithm1\\Algorithm1\\FindMaxRand.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E31D9E45-BECA-48A7-983D-52ABEC2EBACD}|Algorithm1\\Algorithm1.vcxproj|solutionrelative:Algorithm1\\FindMaxRand.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E31D9E45-BECA-48A7-983D-52ABEC2EBACD}|Algorithm1\\Algorithm1.vcxproj|C:\\cworkspace2\\Algorithm1\\Algorithm1\\Fibonacci2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E31D9E45-BECA-48A7-983D-52ABEC2EBACD}|Algorithm1\\Algorithm1.vcxproj|solutionrelative:Algorithm1\\Fibonacci2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,66 +35,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Fibonacci.c",
-              "DocumentMoniker": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\Fibonacci.c",
-              "RelativeDocumentMoniker": "Algorithm1\\Fibonacci.c",
-              "ToolTip": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\Fibonacci.c*",
-              "RelativeToolTip": "Algorithm1\\Fibonacci.c*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAADAAAAAAAAAA==",
+              "Title": "gcd2.c",
+              "DocumentMoniker": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\gcd2.c",
+              "RelativeDocumentMoniker": "Algorithm1\\gcd2.c",
+              "ToolTip": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\gcd2.c",
+              "RelativeToolTip": "Algorithm1\\gcd2.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-11T08:35:18.976Z",
+              "WhenOpened": "2025-08-12T08:24:44.652Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Factorial2.c",
-              "DocumentMoniker": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\Factorial2.c",
-              "RelativeDocumentMoniker": "Algorithm1\\Factorial2.c",
-              "ToolTip": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\Factorial2.c",
-              "RelativeToolTip": "Algorithm1\\Factorial2.c",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADMAAAAwAAAAAAAAAA==",
+              "Title": "gcd1.c",
+              "DocumentMoniker": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\gcd1.c",
+              "RelativeDocumentMoniker": "Algorithm1\\gcd1.c",
+              "ToolTip": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\gcd1.c",
+              "RelativeToolTip": "Algorithm1\\gcd1.c",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwCgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-11T08:20:11.706Z",
+              "WhenOpened": "2025-08-12T08:04:09.508Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Factorial.c",
-              "DocumentMoniker": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\Factorial.c",
-              "RelativeDocumentMoniker": "Algorithm1\\Factorial.c",
-              "ToolTip": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\Factorial.c",
-              "RelativeToolTip": "Algorithm1\\Factorial.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Title": "PrintBinary.c",
+              "DocumentMoniker": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\PrintBinary.c",
+              "RelativeDocumentMoniker": "Algorithm1\\PrintBinary.c",
+              "ToolTip": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\PrintBinary.c",
+              "RelativeToolTip": "Algorithm1\\PrintBinary.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-11T08:12:28.739Z",
+              "WhenOpened": "2025-08-12T07:35:54.746Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "SosEx.c",
-              "DocumentMoniker": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\SosEx.c",
-              "RelativeDocumentMoniker": "Algorithm1\\SosEx.c",
-              "ToolTip": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\SosEx.c",
-              "RelativeToolTip": "Algorithm1\\SosEx.c",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Title": "FibonacciPractice.c",
+              "DocumentMoniker": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\FibonacciPractice.c",
+              "RelativeDocumentMoniker": "Algorithm1\\FibonacciPractice.c",
+              "ToolTip": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\FibonacciPractice.c",
+              "RelativeToolTip": "Algorithm1\\FibonacciPractice.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-11T08:01:01.173Z",
+              "WhenOpened": "2025-08-12T07:18:32.89Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "FindMaxRand.c",
-              "DocumentMoniker": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\FindMaxRand.c",
-              "RelativeDocumentMoniker": "Algorithm1\\FindMaxRand.c",
-              "ToolTip": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\FindMaxRand.c",
-              "RelativeToolTip": "Algorithm1\\FindMaxRand.c",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAsAAAAAAAAAA==",
+              "Title": "Fibonacci2.c",
+              "DocumentMoniker": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\Fibonacci2.c",
+              "RelativeDocumentMoniker": "Algorithm1\\Fibonacci2.c",
+              "ToolTip": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\Fibonacci2.c",
+              "RelativeToolTip": "Algorithm1\\Fibonacci2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-11T07:28:07.189Z",
+              "WhenOpened": "2025-08-12T07:06:31.199Z",
               "EditorCaption": ""
             }
           ]
