@@ -18,5 +18,52 @@
     <ClCompile Include="BubbleSort.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="BubbleSort2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SelectionSort.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SelectionSort2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Ranking.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Search1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Search2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SequentialSearch.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SequentialSearch2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Ranking2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="InsertSort.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="InsertSort2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SequentialSearch3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SequentialSearchAll.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BinarySearch.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="BinarySearch2.c">
+      <Filter>소스 파일</Filter>
+    </None>
   </ItemGroup>
 </Project>
