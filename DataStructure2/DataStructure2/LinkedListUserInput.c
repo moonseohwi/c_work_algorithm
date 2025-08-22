@@ -30,9 +30,24 @@ int main()
 		scanf("%d", &value);
 
 		//1. 노드 생성 방법 - 맨 앞에서 삽입
+		/*
 		newNode->data = value;
 		newNode->next = head;  //새 노드가 head와 연결됨
 		head = newNode;        //새 노드가 head가 됨
+		*/
+
+		//2. 노드 생성 방법 - 맨 뒤에 삽입
+		newNode->data = value;
+		newNode->next = NULL;
+
+		if (head == NULL) {
+			head = newNode;     //새 노드가 head가 됨
+			current = newNode;  //새 노드가 현재 노드가 됨
+		}
+		else {
+			current->next = newNode;  //새 노드가 이전(현재) 노드와 연결됨
+			current = newNode;        //새 노드가 현재 노드가 됨
+		}
 	}
 
 	puts("연결리스트 출력");
@@ -42,6 +57,15 @@ int main()
 		current = current->next;
 	}
 	puts("NULL");
+
+	//메모리 해제
+	current = head;
+	while (current != NULL) {
+		Node* temp = current;  //현재 노드를 저장
+		printf("free(%d)\n", current->data);
+		current = current->next;  //현재 노드를 다음 노드로 이동
+		free(temp);
+	}
 
 	return 0;
 }

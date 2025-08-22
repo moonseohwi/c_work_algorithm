@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\cworkspace2\\DataStructure2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{84A31029-11E9-48CD-9661-888EE1DC4066}|DataStructure2\\DataStructure2.vcxproj|C:\\cworkspace2\\DataStructure2\\DataStructure2\\\uACE0\uAC1D\uB300\uAE30\uC5F4_queue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{84A31029-11E9-48CD-9661-888EE1DC4066}|DataStructure2\\DataStructure2.vcxproj|solutionrelative:DataStructure2\\\uACE0\uAC1D\uB300\uAE30\uC5F4_queue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A31029-11E9-48CD-9661-888EE1DC4066}|DataStructure2\\DataStructure2.vcxproj|C:\\cworkspace2\\DataStructure2\\DataStructure2\\LinkedListInsertDelete.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{84A31029-11E9-48CD-9661-888EE1DC4066}|DataStructure2\\DataStructure2.vcxproj|solutionrelative:DataStructure2\\LinkedListInsertDelete.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{84A31029-11E9-48CD-9661-888EE1DC4066}|DataStructure2\\DataStructure2.vcxproj|C:\\cworkspace2\\DataStructure2\\DataStructure2\\LinkedListUserInput.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{84A31029-11E9-48CD-9661-888EE1DC4066}|DataStructure2\\DataStructure2.vcxproj|solutionrelative:DataStructure2\\LinkedListUserInput.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -35,32 +43,56 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LinkedListUserInput.c",
-              "DocumentMoniker": "C:\\cworkspace2\\DataStructure2\\DataStructure2\\LinkedListUserInput.c",
-              "RelativeDocumentMoniker": "DataStructure2\\LinkedListUserInput.c",
-              "ToolTip": "C:\\cworkspace2\\DataStructure2\\DataStructure2\\LinkedListUserInput.c",
-              "RelativeToolTip": "DataStructure2\\LinkedListUserInput.c",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAACAAAAAAAAAA==",
+              "Title": "\uACE0\uAC1D\uB300\uAE30\uC5F4_queue.c",
+              "DocumentMoniker": "C:\\cworkspace2\\DataStructure2\\DataStructure2\\\uACE0\uAC1D\uB300\uAE30\uC5F4_queue.c",
+              "RelativeDocumentMoniker": "DataStructure2\\\uACE0\uAC1D\uB300\uAE30\uC5F4_queue.c",
+              "ToolTip": "C:\\cworkspace2\\DataStructure2\\DataStructure2\\\uACE0\uAC1D\uB300\uAE30\uC5F4_queue.c*",
+              "RelativeToolTip": "DataStructure2\\\uACE0\uAC1D\uB300\uAE30\uC5F4_queue.c*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-21T08:36:48.578Z",
+              "WhenOpened": "2025-08-22T08:44:37.593Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LinkedListFunction.c",
-              "DocumentMoniker": "C:\\cworkspace2\\DataStructure2\\DataStructure2\\LinkedListFunction.c",
-              "RelativeDocumentMoniker": "DataStructure2\\LinkedListFunction.c",
-              "ToolTip": "C:\\cworkspace2\\DataStructure2\\DataStructure2\\LinkedListFunction.c",
-              "RelativeToolTip": "DataStructure2\\LinkedListFunction.c",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Title": "LinkedListInsertDelete.c",
+              "DocumentMoniker": "C:\\cworkspace2\\DataStructure2\\DataStructure2\\LinkedListInsertDelete.c",
+              "RelativeDocumentMoniker": "DataStructure2\\LinkedListInsertDelete.c",
+              "ToolTip": "C:\\cworkspace2\\DataStructure2\\DataStructure2\\LinkedListInsertDelete.c",
+              "RelativeToolTip": "DataStructure2\\LinkedListInsertDelete.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-21T08:15:29.726Z",
+              "WhenOpened": "2025-08-22T07:37:41.455Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "LinkedListUserInput.c",
+              "DocumentMoniker": "C:\\cworkspace2\\DataStructure2\\DataStructure2\\LinkedListUserInput.c",
+              "RelativeDocumentMoniker": "DataStructure2\\LinkedListUserInput.c",
+              "ToolTip": "C:\\cworkspace2\\DataStructure2\\DataStructure2\\LinkedListUserInput.c",
+              "RelativeToolTip": "DataStructure2\\LinkedListUserInput.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-21T08:36:48.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LinkedListFunction.c",
+              "DocumentMoniker": "C:\\cworkspace2\\DataStructure2\\DataStructure2\\LinkedListFunction.c",
+              "RelativeDocumentMoniker": "DataStructure2\\LinkedListFunction.c",
+              "ToolTip": "C:\\cworkspace2\\DataStructure2\\DataStructure2\\LinkedListFunction.c",
+              "RelativeToolTip": "DataStructure2\\LinkedListFunction.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-21T08:15:29.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "LinkedList2.c",
               "DocumentMoniker": "C:\\cworkspace2\\DataStructure2\\DataStructure2\\LinkedList2.c",
               "RelativeDocumentMoniker": "DataStructure2\\LinkedList2.c",
@@ -68,34 +100,31 @@
               "RelativeToolTip": "DataStructure2\\LinkedList2.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-21T08:01:14.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T08:01:14.655Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "LinkedList1.c",
               "DocumentMoniker": "C:\\cworkspace2\\DataStructure2\\DataStructure2\\LinkedList1.c",
               "RelativeDocumentMoniker": "DataStructure2\\LinkedList1.c",
               "ToolTip": "C:\\cworkspace2\\DataStructure2\\DataStructure2\\LinkedList1.c",
               "RelativeToolTip": "DataStructure2\\LinkedList1.c",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-21T07:43:35.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T07:43:35.197Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ArrayStruct.c",
               "DocumentMoniker": "C:\\cworkspace2\\DataStructure2\\DataStructure2\\ArrayStruct.c",
               "RelativeDocumentMoniker": "DataStructure2\\ArrayStruct.c",
               "ToolTip": "C:\\cworkspace2\\DataStructure2\\DataStructure2\\ArrayStruct.c",
               "RelativeToolTip": "DataStructure2\\ArrayStruct.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAA1wCEAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-21T07:25:26.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T07:25:26.602Z"
             }
           ]
         }

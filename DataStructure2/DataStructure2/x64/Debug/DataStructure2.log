@@ -1,4 +1,3 @@
-﻿  LinkedListUserInput.c
-C:\cworkspace2\DataStructure2\DataStructure2\LinkedListUserInput.c(34,17): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
-C:\cworkspace2\DataStructure2\DataStructure2\LinkedListUserInput.c(42,11): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
-  DataStructure2.vcxproj -> C:\cworkspace2\DataStructure2\x64\Debug\DataStructure2.exe
+﻿  고객대기열_queue.c
+C:\cworkspace2\DataStructure2\DataStructure2\고객대기열_queue.c(44,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\cworkspace2\DataStructure2\DataStructure2\고객대기열_queue.c(31,7): warning C4101: 'name' :참조되지 않은 지역 변수입니다.
